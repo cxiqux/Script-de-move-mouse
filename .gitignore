@@ -1,0 +1,26 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller / builds
+build/
+dist/
+*.toc
+*.pyz
+*.pkg
+*.zip
+*.log
+warn-*.txt
+xref-*.html
+
+# Executáveis
+*.exe
+
+# Sistema
+.DS_Store
+Thumbs.db
